@@ -1,6 +1,6 @@
 site_name: IP-telephony
 repo_name: 'itmo-ict-faculty'
-repo_url: 'https://github.com/itmo-ict-faculty/ip-telephony'
+repo_url: 'https://ex-itmo-ict-faculty.github.io/ip-telephony/'
 theme:
   name: material
   palette:
